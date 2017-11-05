@@ -1,0 +1,25 @@
+$main_color: purple;
+$header_color: blue;
+
+.wrap {
+  max-width: 1200px;
+
+}
+
+header {
+  background-color: $header_color;
+
+  .top {
+    display: block;
+
+    ul {
+      display: flex;
+
+      li {
+        padding: 20px 30px;
+        color: $main_color;
+
+      }
+    }
+  }
+}

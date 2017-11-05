@@ -1,0 +1,14 @@
+.wrap {
+  max-width: 1200px; }
+
+header {
+  background-color: blue; }
+  header .top {
+    display: block; }
+    header .top ul {
+      display: flex; }
+      header .top ul li {
+        padding: 20px 30px;
+        color: purple; }
+
+/*# sourceMappingURL=style.css.map */
